@@ -12,7 +12,7 @@ implement BinaryHeap, Huffman binary tree, separate chaining hash table.
 GUI included.
 
 Palindrome detector, expression tree, and BST programs: 
-implement binary search tree, expression tree, stack
+implement binary search tree, expression tree, stack algorithm
 
 Shortest Path and Minimum Spanning Tree programs:
 implement Kruskal's algorithm, Dijkstra's algorithm. 
