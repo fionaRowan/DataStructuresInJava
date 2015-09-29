@@ -1,11 +1,7 @@
 README
 
 Fiona Rowan
-fmr2112
 
-
-
-Programming 4
 
 FIRST: input file from commandline 
 Tester, SeparateChainingHashTable, HuffTree, CharAndWeight, BinaryHeap.

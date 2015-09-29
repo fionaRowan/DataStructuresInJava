@@ -1,8 +1,6 @@
 README
 
 Fiona Rowan
-Data Structures
-Programming Assignment 2
 
 1: PALINDROME DETECTOR
 classes: FindPalindromes.java, MyStack.java

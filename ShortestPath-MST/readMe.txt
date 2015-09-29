@@ -1,10 +1,6 @@
 README
 
 Fiona Rowan
-Programming 5
-
-Note: I changed both city files to have a .txt extension (included in zip file).
-
 
 *main methods live in:
 ShortestPath.java

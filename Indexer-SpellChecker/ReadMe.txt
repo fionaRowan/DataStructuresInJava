@@ -1,10 +1,8 @@
 READ ME
 
 Fiona Rowan 
-COMS3134 Data structures
-Programming Assignment 3
 
-Program 1:
+
 Classes: Indexer.java, AvlTree.java
 
 INDEXER CLASS
